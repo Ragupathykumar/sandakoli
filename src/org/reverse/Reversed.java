@@ -16,6 +16,8 @@ public class Reversed {
 				System.out.print("* ");
 			}
 			System.out.println();
+			System.out.println();
+			System.out.println();
 		}
 	}
 }
